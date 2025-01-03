@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/CALENDAR BACKEND/CALENDAR BACKEND.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CALENDAR BACKEND.ma6jxg46vy.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1169"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 18:25:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CALENDAR BACKEND/CALENDAR BACKEND.ma6jxg46vy.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CALENDAR BACKEND.ma6jxg46vy.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ma6jxg46vy"},{"Name":"integrity","Value":"sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="},{"Name":"label","Value":"_content/CALENDAR BACKEND/CALENDAR BACKEND.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1169"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 18:25:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

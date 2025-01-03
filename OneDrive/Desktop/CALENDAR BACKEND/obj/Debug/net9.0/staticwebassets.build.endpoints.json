@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.styles.css",
+      "AssetFile": "CALENDAR BACKEND.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001785714286"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.styles.css",
+      "AssetFile": "CALENDAR BACKEND.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.styles.css.gz",
+      "AssetFile": "CALENDAR BACKEND.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w="
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.styles.css.gz"
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.styles.css",
+      "AssetFile": "CALENDAR BACKEND.styles.css.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001785714286"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.styles.css",
+      "AssetFile": "CALENDAR BACKEND.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.styles.css.gz",
+      "AssetFile": "CALENDAR BACKEND.styles.css.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w="
+        }
+      ]
+    }
+  ]
+}

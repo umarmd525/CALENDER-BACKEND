@@ -1,0 +1,694 @@
+{
+  "Version": 1,
+  "Hash": "IHSIQ+bEW1zSyuA2RBMuSoubd7xevdcgr5CjEquGxys=",
+  "Source": "CALENDAR BACKEND",
+  "BasePath": "_content/CALENDAR BACKEND",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\ezw7vehqni-ma6jxg46vy.gz",
+      "SourceId": "CALENDAR BACKEND",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CALENDAR BACKEND",
+      "RelativePath": "CALENDAR BACKEND#[.{fingerprint=ma6jxg46vy}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CALENDAR BACKEND.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "re8lw2nnls",
+      "Integrity": "LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CALENDAR BACKEND.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\pz0n4je2n7-ma6jxg46vy.gz",
+      "SourceId": "CALENDAR BACKEND",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/CALENDAR BACKEND",
+      "RelativePath": "CALENDAR BACKEND#[.{fingerprint=ma6jxg46vy}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CALENDAR BACKEND.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "re8lw2nnls",
+      "Integrity": "LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CALENDAR BACKEND.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CALENDAR BACKEND.styles.css",
+      "SourceId": "CALENDAR BACKEND",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/CALENDAR BACKEND",
+      "RelativePath": "CALENDAR BACKEND#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "ma6jxg46vy",
+      "Integrity": "nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CALENDAR BACKEND.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CALENDAR BACKEND.bundle.scp.css",
+      "SourceId": "CALENDAR BACKEND",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/CALENDAR BACKEND",
+      "RelativePath": "CALENDAR BACKEND#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "ma6jxg46vy",
+      "Integrity": "nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CALENDAR BACKEND.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CALENDAR BACKEND.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\pz0n4je2n7-ma6jxg46vy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001785714286"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CALENDAR BACKEND.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\pz0n4je2n7-ma6jxg46vy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\pz0n4je2n7-ma6jxg46vy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001785714286"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.bundle.scp.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\CALENDAR BACKEND.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\pz0n4je2n7-ma6jxg46vy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.styles.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\ezw7vehqni-ma6jxg46vy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001785714286"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.styles.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CALENDAR BACKEND.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.ma6jxg46vy.styles.css.gz",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\ezw7vehqni-ma6jxg46vy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma6jxg46vy"
+        },
+        {
+          "Name": "label",
+          "Value": "CALENDAR BACKEND.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.styles.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\ezw7vehqni-ma6jxg46vy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001785714286"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.styles.css",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\scopedcss\\bundle\\CALENDAR BACKEND.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1169"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nmfeZTL/q50y8Jj/2IJ65W8yZCZfr9hqExwBM01rMhU="
+        }
+      ]
+    },
+    {
+      "Route": "CALENDAR BACKEND.styles.css.gz",
+      "AssetFile": "C:\\Users\\mduma\\OneDrive\\Desktop\\CALENDAR BACKEND\\obj\\Debug\\net9.0\\compressed\\ezw7vehqni-ma6jxg46vy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "559"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 18:25:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LUoAC7/QWGDLvFJRl7voBB00OMUS7+6mYGpP1kaCr4w="
+        }
+      ]
+    }
+  ]
+}
